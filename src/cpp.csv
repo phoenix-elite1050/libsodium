@@ -1,0 +1,3 @@
+src/libsodium/cryto_generichash/blake2b/ref/bake2b-ref.c,325,high,this issue is high,custom rule
+src/libsodium/cryto_generichash/blake2b/ref/bake2b-ref.c,335,medium,this issue is medium,custom rule
+src/libsodium/cryto_generichash/blake2b/ref/bake2b-ref.c,335,medium,this issue is medium,custom rule

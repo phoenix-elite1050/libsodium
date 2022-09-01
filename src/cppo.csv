@@ -1,0 +1,2 @@
+src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c,10,low,this issue is low issue,custom rule
+src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c,16,low,this issue is low issue,custom rule
