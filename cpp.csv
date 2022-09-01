@@ -1,2 +1,2 @@
 src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c,10,Medium,this is medium issue,custom rule
-src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c,2,Low,this is Low issue,custom rule
+src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c,2,low,this is Low issue,custom rule
